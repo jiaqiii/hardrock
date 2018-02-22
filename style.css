@@ -1,0 +1,31 @@
+.ui.borderless.topmenu.menu{
+  background-color:grey;
+  color: white;
+  box-shadow:none;
+  border:none;
+  margin:0px;
+  border-radius: 0px;
+  
+
+}
+
+.ui.centered.grid.container{
+  color: white;
+}
+
+.ui.borderless.middlemenu.menu{
+  box-shadow:none;
+  border:none;
+}
+
+.footer{
+  background-color:#f96d21;
+  color:white;
+  padding-top:0px;
+  padding-bottom: 0px;
+}
+.ui.label{
+  background-color: black;
+  color: white;
+}
+
